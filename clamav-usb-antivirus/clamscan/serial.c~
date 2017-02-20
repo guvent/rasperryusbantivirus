@@ -1,0 +1,23 @@
+
+
+#include <stdio.h>
+#include <string.h>
+#include <errno.h>
+#include <wiringPi.h>
+#include <unistd.h>
+
+
+int main () 
+{
+int fd ;
+int count ;
+unsigned int nextTime ;
+unsigned char *cmd;
+
+
+        
+
+    printf ("\n") ;
+ 
+return 0 ;
+}
